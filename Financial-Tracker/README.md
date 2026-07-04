@@ -25,7 +25,7 @@
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tuusuario/finanzas-tracker.git
+git clone https://github.com/DESOLADORA666/finanzas-tracker.git
 cd finanzas-tracker
 
 # Crear y activar entorno virtual
