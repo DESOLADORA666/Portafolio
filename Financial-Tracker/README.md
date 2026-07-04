@@ -14,13 +14,13 @@
 ## 📸 Capturas de Pantalla
 
 ### Dashboard Principal
-![Dashboard Principal](images/Resumen.PNG)
+![Dashboard Principal](Resumen.PNG)
 
 ### Análisis de Gastos
-![Análisis de Gastos](images/Analisis%20de%20Gastos.PNG)
+![Análisis de Gastos](Analisis%20de%20Gastos.PNG)
 
 ### Gestión de Movimientos
-![Gestión de Movimientos](images/Movimientos-csv-excel.PNG)
+![Gestión de Movimientos](Movimientos-csv-excel.PNG)
 
 ## ✨ Características
 
